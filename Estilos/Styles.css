@@ -1,0 +1,92 @@
+/*INICIO*/
+.nav-item {
+  margin: 40px;
+  margin-top: 0px;
+}
+
+.Titulo-inicio {
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 80px;
+}
+
+.Inicio {
+  background: url(../img/amigos-de-la-diversidad-que-hacen-frente-concepto-de-la-reunión-de-reflexión-de-la-cafetería-66884126.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.Logo {
+  margin-top: 240px;
+  margin-left: 100px;
+}
+
+.Texto-inicio {
+  font-weight: bold;
+  font-size: 18px;
+  font-family: arial, sans-serif;
+  color: white;
+  background-color: #262626;
+  border: solid 3px black;
+  margin-bottom: 20px;
+  padding: 20px;
+  padding-top: 30px;
+}
+
+.Redes {
+  letter-spacing: 30px;
+  margin-top: 30px;
+}
+
+/*PRODUCTOS*/
+
+.Body-productos {
+  background: url(../img/cafe-granos.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*SOBRE NOSOTROS*/
+
+.Body-sobrenosotros {
+  background: url(../img/fondomesamadera-overlay.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+/*UBICACIÓN*/
+.Body-ubicación {
+  background: url(../img/taza-cafe-granos-cafe-sobre-fondo-oscuro_126783-1105-overlay.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Mapa {
+  margin-top: 50px;
+}
+
+/*EVENTOS*/
+.Texto-eventos {
+  font-size: 24 px;
+  font-family: arial, sans-serif;
+  text-align: justify;
+}
+
+.Body-eventos {
+  background: url(../img/amigos-de-la-diversidad-que-hacen-frente-concepto-de-la-reunión-de-reflexión-de-la-cafetería-66884126.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.Texto-eventos {
+  background-color: #262626;
+  border: solid black 2px;
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.img-eventos {
+  border: solid black 4px;
+  margin: 2px;
+}
